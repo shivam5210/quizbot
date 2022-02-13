@@ -25,3 +25,4 @@ Quick start
         python3 main.py
 
 1. Open your bot in Telegram and start the quiz.
+https://heroku.com/deploy?template=https://github.com/shivam5210/quizbot
